@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Pushkar-kumarr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Final-year+CS+student+at+VIT Chennai;I+build+full-stack+apps+and+ML+projects;Currently+practicing+DSA+and+contests" alt="typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Final-year+CS+student+at+VIT+Chennai;I+build+full-stack+apps+and+ML+projects;Currently+practicing+DSA+and+contests" alt="typing intro" />
   </a>
 </p>
 
