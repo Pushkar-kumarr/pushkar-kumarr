@@ -36,19 +36,5 @@ Also: Pandas, NumPy, LangChain, Electron, Three.js, DynamoDB, REST and WebSocket
 
 **LeetCode** ([pushkar-kumar10](https://leetcode.com/u/pushkar-kumar10/))
 
-<a href="https://leetcode.com/u/pushkar-kumar10/">
-  <img src="https://leetcard.jacoblin.cool/pushkar-kumar10?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats" width="560" />
-</a>
-
 **CodeChef** ([pushkar_kumarr](https://www.codechef.com/users/pushkar_kumarr))
 
-| | Rating | Highest | Global rank | Country rank |
-|---|---|---|---|---|
-| Contests | 1512 (2★) | 1512 | 24563 | 23153 |
-| DSA | 1109 | 1109 | 29586 | 29125 |
-
-22 problems solved, 2 rated contests so far. Best contest finish: rank 481 in Monday Munch DSA Challenge 025.
-
-## Contact
-
-The easiest way to reach me is email: **pushkarkumar.kumar10@gmail.com**, or message me on [LinkedIn](https://www.linkedin.com/in/pushkar-kumar-0b78a028b/).
