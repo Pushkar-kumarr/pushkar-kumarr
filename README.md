@@ -32,15 +32,6 @@ Most of my work so far is a mix of full-stack web apps, cloud (AWS), and machine
 
 Also: Pandas, NumPy, LangChain, Electron, Three.js, DynamoDB, REST and WebSockets.
 
-## Projects
-
-- **[Thrice Nomisma](https://github.com/Pushkar-kumarr)**: a desktop trading terminal for NSE/BSE stocks with live market data, around 100 technical indicators, and a multi-timeframe strategy engine. Built with Electron, React, TypeScript and FastAPI.
-- **[Online Document Amplify and Storage System](https://github.com/Pushkar-kumarr/Online-Document-Amplify-and-Storage-System)**: serverless file storage on AWS (Cognito, Lambda, S3, DynamoDB). It detects suspicious IP changes and asks for an OTP before any file action.
-- **AI Binary Trading Bot**: a Python ML system that predicts market direction from RSI, MACD and Bollinger Bands, with a built-in risk limit per trade. Tested on 6 months of historical data.
-- **[AgroChain](https://github.com/Pushkar-kumarr/AgroChain-Farm-to-Consumer-Transparency-System)**: blockchain-based tracking of farm produce from farmer to consumer, using smart contracts for transparent pricing and origin records.
-- **[Last-mile Delivery System](https://github.com/Pushkar-kumarr/Last-mile-delievery-System)**: a JavaScript project on delivery management.
-- **[College Admission Waitlist Transparency System](https://github.com/Pushkar-kumarr/College-Admssion-Waitlist-Transparency-System)**: a JavaScript project to make admission waitlists more transparent.
-
 ## Competitive programming
 
 **LeetCode** ([pushkar-kumar10](https://leetcode.com/u/pushkar-kumar10/))
