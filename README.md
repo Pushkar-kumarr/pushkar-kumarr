@@ -1,19 +1,10 @@
-<h1 align="center">Pushkar Kumar</h1>
-
 <p align="center">
-  <a href="https://github.com/Pushkar-kumarr">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1200&color=58A6FF&center=true&vCenter=true&width=560&lines=Final-year+CS+student+at+VIT+Chennai;I+build+full-stack+apps+and+ML+projects;Currently+practicing+DSA+and+contests" alt="typing intro" />
-  </a>
+  <img src="banner.svg" alt="Pushkar Kumar" width="100%" />
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/pushkar-kumar-0b78a028b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pushkarkumar.kumar10@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://leetcode.com/u/pushkar-kumar10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.codechef.com/users/pushkar_kumarr"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <img src="terminal.svg" alt="typing intro" width="100%" />
 </p>
-
----
 
 ## About
 
@@ -22,6 +13,7 @@ Hi, I'm Pushkar. I'm in my final year of Computer Science and I like building th
 Most of my work so far is a mix of full-stack web apps, cloud (AWS), and machine learning. Lately I've been building a desktop trading terminal for Indian equities and a serverless document storage platform with extra login security. Outside of projects I practice data structures and algorithms on LeetCode and CodeChef.
 
 **Right now I'm working on:** Thrice Nomisma (trading terminal) and getting better at contest problems.
+**Looking for:** internships and projects where I can build real things.
 
 ## Tech stack
 
@@ -33,7 +25,14 @@ Also: Pandas, NumPy, LangChain, Electron, Three.js, DynamoDB, REST and WebSocket
 
 ## Competitive programming
 
-**LeetCode** ([pushkar-kumar10](https://leetcode.com/u/pushkar-kumar10/))
+<a href="https://leetcode.com/u/pushkar-kumar10/">
+  <img src="https://leetcard.jacoblin.cool/pushkar-kumar10?theme=dark&font=Fira%20Code&border=0" alt="LeetCode rank" height="140" />
+</a>
+&nbsp;
+<a href="https://www.codechef.com/users/pushkar_kumarr">
+  <img src="https://img.shields.io/badge/CodeChef-2★%20·%20Rating%201512%20·%20Global%20Rank%2024563-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef rank" />
+</a>
 
-**CodeChef** ([pushkar_kumarr](https://www.codechef.com/users/pushkar_kumarr))
+[LeetCode](https://leetcode.com/u/pushkar-kumar10/) · [CodeChef](https://www.codechef.com/users/pushkar_kumarr)
 
+> Fellow competitive programmers: let's solve, compete and climb the ratings together! 🧠⚡🚀
