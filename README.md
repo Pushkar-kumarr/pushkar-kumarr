@@ -25,14 +25,7 @@ Also: Pandas, NumPy, LangChain, Electron, Three.js, DynamoDB, REST and WebSocket
 
 ## Competitive programming
 
-<a href="https://leetcode.com/u/pushkar-kumar10/">
-  <img src="https://leetcard.jacoblin.cool/pushkar-kumar10?theme=dark&font=Fira%20Code&border=0" alt="LeetCode rank" height="140" />
-</a>
-&nbsp;
-<a href="https://www.codechef.com/users/pushkar_kumarr">
-  <img src="https://img.shields.io/badge/CodeChef-2★%20·%20Rating%201512%20·%20Global%20Rank%2024563-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef rank" />
-</a>
-
-[LeetCode](https://leetcode.com/u/pushkar-kumar10/) · [CodeChef](https://www.codechef.com/users/pushkar_kumarr)
+<a href="https://leetcode.com/u/pushkar-kumar10/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+<a href="https://www.codechef.com/users/pushkar_kumarr"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
 
 > Fellow competitive programmers: let's solve, compete and climb the ratings together! 🧠⚡🚀
